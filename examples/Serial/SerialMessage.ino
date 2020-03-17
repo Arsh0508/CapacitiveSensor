@@ -1,4 +1,4 @@
-/*This is an Arduino code that sends the serial message
+/*This is an Arduino sketch that sends the serial message
 to processing when somone activates a capacitive sensor
 connected to it which acts just as a normal
 button.*/
