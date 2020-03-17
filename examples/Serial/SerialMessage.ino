@@ -5,7 +5,7 @@ button.*/
 
 #include <CapacitiveSensor.h>
 
-// Creating 4 objects for capicitive sensors
+// Creating 4 objects for capacitive sensors
 
 CapacitiveSensor left = CapacitiveSensor(3, 2);
 CapacitiveSensor right = CapacitiveSensor(5, 4);
