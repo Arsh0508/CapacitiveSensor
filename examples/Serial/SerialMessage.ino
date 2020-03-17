@@ -14,9 +14,6 @@ CapacitiveSensor up = CapacitiveSensor(9, 8);
 
 void setup()
 {
-
-   // put your setup code here, to run once:
-  
    Serial.begin(9600);
 }
 
