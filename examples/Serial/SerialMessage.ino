@@ -19,9 +19,6 @@ void setup()
 
 void loop()
 {
-
-  // put your main code here, to run repeatedly:
-  
   /* Variables to check which serial message corresponding
   to which sensor is to be printed */
   
